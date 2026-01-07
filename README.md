@@ -120,7 +120,8 @@ This guarantees **safe retries**.
 **Endpoint**:http://localhost:8080/swagger-ui/index.html
 
 
-***Architectural Representation***
+## Architectural Representation
 <br>
-![Uploading architecture.png.png…]()
+
+<img width="1536" height="1024" alt="architecture png" src="https://github.com/user-attachments/assets/df68dce1-0d03-4953-a95f-1a62149580bc" />
 
