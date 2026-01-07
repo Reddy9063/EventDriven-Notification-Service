@@ -119,3 +119,7 @@ This guarantees **safe retries**.
 **📄 Swagger / OpenAPI**
 **Endpoint**:http://localhost:8080/swagger-ui/index.html
 
+
+***Architectural Representation***
+![Uploading architecture.png.png…]()
+
