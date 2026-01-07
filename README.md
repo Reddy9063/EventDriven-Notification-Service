@@ -121,5 +121,6 @@ This guarantees **safe retries**.
 
 
 ***Architectural Representation***
+<br>
 ![Uploading architecture.png.png…]()
 
